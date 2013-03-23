@@ -2,6 +2,8 @@
 
 This is an example for testing containers created by [puppet-lxc-test-box](https://github.com/mizzy/puppet-lxc-test-box).
 
+You can write test code like this.
+
 ```ruby
 require 'container_spec_helper'
 
