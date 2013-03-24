@@ -1,5 +1,8 @@
 # rspec-lxc-test-box
 
+I've re-writed this as a rubygem "serverspec".
+See: https://github.com/mizzy/serverspec
+
 This is an example for testing containers created by [puppet-lxc-test-box](https://github.com/mizzy/puppet-lxc-test-box).
 
 You can write test code like this.
